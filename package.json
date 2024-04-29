@@ -1,0 +1,16 @@
+{
+  "name": "qr-url-generator",
+  "version": "1.0.0",
+  "description": "a QR generator for urls",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Sehajpreet Singh",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.20",
+    "qr-image": "^3.2.0"
+  }
+}
