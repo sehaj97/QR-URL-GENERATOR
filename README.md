@@ -22,4 +22,3 @@ This will generate a file "url.png" which will contain the url.
 1
 1
 1
-1
