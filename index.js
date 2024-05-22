@@ -6,7 +6,7 @@ inquirer
     .prompt([
         /* Pass your questions in here */
         {
-            message: "Please Enter URL: ",
+            message: "Please Enter URLs: ",
             name: "URL"
         },
     ])
