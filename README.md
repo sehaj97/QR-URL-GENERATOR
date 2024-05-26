@@ -32,5 +32,4 @@ This will generate a file "url.png" which will contain the url.
 4
 5
 6
-7
 
