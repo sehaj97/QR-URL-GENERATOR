@@ -28,4 +28,3 @@ This will generate a file "url.png" which will contain the url.
 8
 9
 2
-3
