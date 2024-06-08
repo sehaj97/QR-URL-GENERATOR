@@ -7,5 +7,4 @@ Clone the project/ Download the project
 run "npm install"
 run "npm run test"
 ```
-
 This will generate a file "url.png" which will contain the url.
